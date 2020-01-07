@@ -1,0 +1,13 @@
+body {
+  color: #4b134f;
+}
+
+.form, /*이름 묻는거 숨기기*/
+.greetings {
+  display: none;
+}
+
+.showing {
+  /*이름 묻는거 보이기*/
+  display: block;
+}
